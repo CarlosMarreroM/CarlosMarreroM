@@ -1,5 +1,3 @@
-# Carlos Marrero Martín
-
 <h1 align="center">Carlos Marrero Martín</h1>
 <h3 align="center">Software Developer · Desarrollo de Aplicaciones Multiplataforma</h3>
 
@@ -15,8 +13,8 @@
   <a href="mailto:carlosmarreromartin@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/CarlosMarreroM">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://carlosmarrerom.github.io">
+    <img src="https://img.shields.io/badge/Mi_CV-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
